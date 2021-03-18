@@ -54,3 +54,9 @@
 
 ![](https://i.imgur.com/ckYeqAV.png)
 
+#### Pontos de Melhoria
+
+ - Models e Rotas API Swagger (correções e aperfeiçoamento do backend)
+ 
+ - Conexões Angular (correções e aperfeiçoamento do frontend)
+
